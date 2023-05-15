@@ -1,0 +1,10 @@
+.two-columns__paragraf {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 34px;
+    margin: 0 0 0 0;
+}
+
+.two-columns__paragraf:not(:last-child) { 
+    margin-bottom: 30px; 
+} 
