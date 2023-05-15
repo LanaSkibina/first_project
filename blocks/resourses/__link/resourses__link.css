@@ -6,3 +6,8 @@
     margin-right: 0;
     background-position: center;
 }
+
+.resourses__link:hover {
+    opacity: 70%;
+    transition-timing-function: ease-in;
+}

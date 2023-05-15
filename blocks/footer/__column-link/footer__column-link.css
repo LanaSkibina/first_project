@@ -5,4 +5,10 @@
     font-size: 18px;
     font-weight: 400;
     margin-bottom: 10px;
+    
+}
+
+.footer__column-link:hover {
+    opacity: 70%;
+    transition-timing-function: ease-in;
 }

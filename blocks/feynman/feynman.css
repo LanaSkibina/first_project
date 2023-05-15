@@ -11,7 +11,7 @@
     position: relative;
 }
 
-.feynman__illustration img {
+.feynman__illustration {
     position: absolute;
     width: 867px;
     height: 637px;

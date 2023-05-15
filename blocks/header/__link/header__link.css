@@ -4,3 +4,7 @@
     z-index: 3;
 }
 
+.header__link:hover {
+    opacity: 70%;
+    transition-timing-function: ease-in;
+}

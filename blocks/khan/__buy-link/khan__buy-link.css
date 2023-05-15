@@ -6,3 +6,7 @@
     text-decoration: none;
 }
 
+.khan__buy-link:hover {
+    opacity: 70%;
+    transition-timing-function: ease-in;
+}
