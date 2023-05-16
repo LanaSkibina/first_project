@@ -1,13 +1,11 @@
-.resourses__link {
-    width: 270px;
-    height: 38px;
+.resources__link {
     margin-top: 80px;
     margin-left: 0;
     margin-right: 0;
     background-position: center;
 }
 
-.resourses__link:hover {
+.resources__link:hover {
     opacity: 70%;
     transition-timing-function: ease-in;
 }

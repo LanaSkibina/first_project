@@ -2,8 +2,6 @@
     display: flex;
     position: relative;
     width: 90%;
-    margin: 0 auto;
-    padding-top: 60px;
-    padding-bottom: 40px;
+    margin: 60px auto 40px;
     justify-content: space-between;
 }
